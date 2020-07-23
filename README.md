@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 Welcome to my profile
 
 **F A C T SㅤA B O U TㅤM E:**
-  * Software Architect and Engineer - In Progress
+  * System Analyst - In Progress
   * I’m currently working on Information Technology Agency
   
-**C U R R E N T L YㅤS T U D Y I N G:**
+**C U R R E N T L YㅤL E A R N I N G:**
  * HTML
  * CSS
  * JavaScript

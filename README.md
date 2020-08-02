@@ -20,14 +20,18 @@ Welcome to my profile
 
 **F A C T SㅤA B O U TㅤM E:**
   * System Analyst - In Progress
+  * Information Systems at <strong> <a href="http://ulbra-to.br/"> @CEULP/ULBRA </a> </strong>
   * I’m currently working on Information Technology Agency
+ 
   
 **C U R R E N T L YㅤL E A R N I N G:**
  * HTML
  * CSS
  * JavaScript
  * Python + Django
- * React and ReactNative </br>
+ * React 
+ * ITIL and COBIT
+ * Agile Methodologies and Systems Architecture
  Among other things
  
 **C O N T A C T**

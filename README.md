@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 -->
 # Hello, I am Larisse.
 
-
 Welcome to my profile
 
 **F A C T SㅤA B O U TㅤM E:**
   * Live in <strong> Brazil, Palmas - Tocantins </strong>
   * System Analyst - In Progress
   * Information Systems at <strong> <a href="http://ulbra-to.br/"> @CEULP/ULBRA </a> </strong>
-  * I’m currently working on Information Technology Agency
+  * I’m currently working on Information Technology Agency <br>
+  * Lover of food, tech, coffee, dancing, music and traveling.
  
-  
+
 **C U R R E N T L YㅤL E A R N I N G:**
  * HTML
  * CSS

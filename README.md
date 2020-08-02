@@ -32,7 +32,7 @@ Welcome to my profile
  * Python + Django
  * React 
  * ITIL and COBIT
- * Agile Methodologies and Systems Architecture
+ * Agile Methodologies and Systems Architecture <br />
  Among other things
  
 **C O N T A C T**

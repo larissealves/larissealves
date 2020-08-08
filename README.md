@@ -39,6 +39,6 @@ Welcome to my profile
  * React 
  * ITIL and COBIT
  * Agile Methodologies and Systems Architecture <br />
- Among other things
+ (...) Among other things
   
 ### Me and this page are constantly changing

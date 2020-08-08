@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello, I am Larisse.
+# Hello, I am Larisse.<a href="https://www.linkedin.com/in/larissealves/" target="_blank"><img src="https://github.com/larissealves/icons/blob/master/icons8-linkedin-circundado-64.png" width="38"></a><a href="mailto:alves.larisser@gmail.com" target="_blank"><img src="https://github.com/larissealves/icons/blob/master/ICONGG.png" width="38" ></a>
 
 
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/40678352/89720222-41cd6600-d9a6-11ea-89f1-225bf9c94965.gif"/>
+
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/40678352/89720222-41cd6600-d9a6-11ea-89f1-225bf9c94965.gif">
 
  
 Welcome to my profile
@@ -39,12 +40,5 @@ Welcome to my profile
  * ITIL and COBIT
  * Agile Methodologies and Systems Architecture <br />
  Among other things
- 
-**C O N T A C T**
-
- <a href="https://www.linkedin.com/in/larissealves/" target="_blank"><img src="https://github.com/larissealves/icons/blob/master/icons8-linkedin-circundado-64.png" width="38"></a>
-  <a href="mailto:alves.larisser@gmail.com" target="_blank"><img src="https://github.com/larissealves/icons/blob/master/ICONGG.png" width="38" ></a>
-</p>
-
- 
-Me and this page are constantly changing
+  
+## Me and this page are constantly changing

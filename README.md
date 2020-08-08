@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 -->
 # Hello, I am Larisse.
 
+
+
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/40678352/89720222-41cd6600-d9a6-11ea-89f1-225bf9c94965.gif"/>
+
+ 
 Welcome to my profile
 
 **F A C T SㅤA B O U TㅤM E:**

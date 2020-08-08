@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 Welcome to my profile
 
 **F A C T SㅤA B O U TㅤM E:**
-  * Live in <strong> Brazil, Palmas - Tocantins </strong>
+  * Living in <strong> Brazil, Palmas - Tocantins </strong>
   * System Analyst - In Progress
   * Information Systems at <strong> <a href="http://ulbra-to.br/"> @CEULP/ULBRA </a> </strong>
   * I’m currently working on Information Technology Agency <br>

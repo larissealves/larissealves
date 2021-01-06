@@ -36,7 +36,6 @@ Welcome to my profile
  * CSS
  * JavaScript
  * Python + Django
- * React 
  * ITIL and COBIT
  * Agile Methodologies and Systems Architecture <br />
  (...) Among other things

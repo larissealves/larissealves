@@ -25,7 +25,6 @@ Welcome to my profile
 
 **F A C T SㅤA B O U TㅤM E:**
   * Living in <strong> Brazil, Palmas - Tocantins </strong>
-  * System Analyst - In Progress
   * Information Systems at <strong> <a href="http://ulbra-to.br/"> @CEULP/ULBRA </a> </strong>
   * I’m currently working on Manserv <br>
   * Lover of food, tech, coffee, dancing, music and traveling.
@@ -33,11 +32,10 @@ Welcome to my profile
   * <a href="https://www.outsystems.com/profile/8jzuvhi9ee/"> Outsystems Profile </a>
  
 
-**C U R R E N T L YㅤL E A R N I N G:**
- * HTML
- * CSS
- * JavaScript
+**🌱 I’M  C U R R E N T L Yㅤ L E A R N I N G:**
+ * HTML,  CSS, JavaScript
  * Python + Django
+ * OutSytems
  * ITIL and COBIT
  * Agile Methodologies and Systems Architecture <br />
  (...) Among other things

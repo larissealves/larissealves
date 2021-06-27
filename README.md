@@ -32,7 +32,7 @@ Welcome to my profile
   * <a href="https://www.outsystems.com/profile/8jzuvhi9ee/"> Outsystems Profile </a>
  
 
-**🌱 I’M  C U R R E N T L Yㅤ L E A R N I N G:**
+**🌱 I’M  C U R R E N T L YㅤL E A R N I N G:**
  * HTML,  CSS, JavaScript
  * Python + Django
  * OutSytems

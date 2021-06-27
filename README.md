@@ -27,8 +27,10 @@ Welcome to my profile
   * Living in <strong> Brazil, Palmas - Tocantins </strong>
   * System Analyst - In Progress
   * Information Systems at <strong> <a href="http://ulbra-to.br/"> @CEULP/ULBRA </a> </strong>
-  * I’m currently working on Information Technology Agency <br>
+  * I’m currently working on Manserv <br>
   * Lover of food, tech, coffee, dancing, music and traveling.
+
+  * <a href="https://www.outsystems.com/profile/8jzuvhi9ee/"> Outsystems Profile </a>
  
 
 **C U R R E N T L YㅤL E A R N I N G:**

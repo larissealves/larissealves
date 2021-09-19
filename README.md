@@ -26,7 +26,7 @@ Welcome to my profile
 **F A C T SㅤA B O U TㅤM E:**
   * Living in <strong> Brazil, Palmas - Tocantins </strong>
   * Information Systems at <strong> <a href="http://ulbra-to.br/"> @CEULP/ULBRA </a> </strong>
-  * I’m currently working on Manserv <br>
+  * I’m currently working on Corteva Agriscience <br>
   * Lover of food, tech, coffee, dancing, music and traveling.
 
   * <a href="https://www.outsystems.com/profile/8jzuvhi9ee/"> Outsystems Profile </a>

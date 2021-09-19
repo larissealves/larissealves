@@ -37,7 +37,7 @@ Welcome to my profile
  * Python + Django
  * OutSytems
  * ITIL and COBIT
- * Agile Methodologies and Systems Architecture <br />
+ * Agile Methodologies <br />
  (...) Among other things
   
 ### Me and this page are constantly changing

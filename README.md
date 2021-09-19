@@ -27,9 +27,9 @@ Welcome to my profile
   * System Analyst
   * Living in <strong> Brazil, Palmas - Tocantins </strong>
   * I’m currently working on Corteva Agriscience <br>
-  * Lover of food, tech, coffee, dancing, music and traveling.
-
-  <!---* <a href="https://www.outsystems.com/profile/8jzuvhi9ee/"> Outsystems Profile </a> -->
+  
+  <!---* Lover of food, tech, coffee, dancing, music and traveling.
+* <a href="https://www.outsystems.com/profile/8jzuvhi9ee/"> Outsystems Profile </a> -->
  
 
 **🌱 I’M  C U R R E N T L YㅤL E A R N I N G:**

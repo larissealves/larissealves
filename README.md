@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 Welcome to my profile
 
 **F A C T SㅤA B O U TㅤM E:**
+  * System Analyst
   * Living in <strong> Brazil, Palmas - Tocantins </strong>
-  * Information Systems at <strong> <a href="http://ulbra-to.br/"> @CEULP/ULBRA </a> </strong>
   * I’m currently working on Corteva Agriscience <br>
   * Lover of food, tech, coffee, dancing, music and traveling.
 

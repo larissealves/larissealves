@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">F A C T SㅤA B O U TㅤM E:</h3>
 
-🎓 System Analyst<br>
+🎓 Software Developer <br>
 🌎 Based in <strong>Palmas, Tocantins – Brazil</strong><br>
 💻 Developer since 2021
 

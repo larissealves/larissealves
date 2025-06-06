@@ -16,22 +16,45 @@
       🔗 LinkedIn: <a href="https://www.linkedin.com/in/larissealves/">/larissealves</a>
     </p>
 
-    <!-- Tech stack (sem flex) -->
-    <p>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" />
-      <img src="https://skillicons.dev/icons?i=ts" height="40" />
-      <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="40" />
-      <img src="https://skillicons.dev/icons?i=py" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-    </p>
+         <!-- Tech Icons -->
 
-    <!-- GitHub Stats -->
-    <p>
-      <img src="https://github-readme-stats.vercel.app/api?username=larissealves&show_icons=true&theme=dracula&hide_border=true" height="150" />
-    </p>
+        <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 8px; margin-bottom: 16px;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"
+                height="50" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg"
+                height="50" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"
+                height="50" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
+                height="50" />
+            <img src="https://skillicons.dev/icons?i=ts" height="50" />
+            <img src="https://skillicons.dev/icons?i=tailwind" height="50" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg"
+                height="50" />
+            <img src="https://skillicons.dev/icons?i=py" height="50" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" height="50" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
+                height="50" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"
+                height="50" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" />
+        </div>
+
+        <!-- GitHub Stats -->
+
+        <div style="display: flex
+;
+    align-items: center;
+    gap: 5px;
+    flex-wrap: wrap;">
+            <img style="max-width: 70%;"
+                src="https://github-readme-activity-graph.vercel.app/graph?username=larissealves&radius=16&theme=dracula&area=true&order=5&hide_border=true&hide_title=false"
+                height="300" />
+            <img src="https://github-readme-stats.vercel.app/api?username=larissealves&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1"
+                height="150" />
+
+        </div>
+    </div>
   </div>
 
   <!-- Footer -->

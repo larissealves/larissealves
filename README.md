@@ -17,17 +17,13 @@ Here are some ideas to get you started:
 
 <h1 align="left">✨ Hello, I am Larisse 👋</h1>
 
-###
-
 <h2 align="left">Welcome to my "Hello World"</h2>
-
-###
 
 <h3 align="left">F A C T SㅤA B O U TㅤM E:</h3>
 
-###
-
-<p align="left">* System Analyst<br>  * Living in <strong> Brazil, Palmas - Tocantins </strong><br>  * Develop desde 2021</p>
+🎓 System Analyst<br>
+🌎 Based in <strong>Palmas, Tocantins – Brazil</strong><br>
+💻 Developer since 2021
 
 ###
 

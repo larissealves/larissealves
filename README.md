@@ -1,22 +1,33 @@
-<div style="border: 2px solid #f7a8a8; border-radius: 12px; background: #fff0f5; padding: 16px; font-family: sans-serif;">
-  
-  <!-- Header -->
-  <div style="background:#d94f88; padding: 12px; border-radius: 12px 12px 0 0;">
-    <h2 style="color: white; margin: 0;">Hello, I am Larisse</h2>
-    <p style="color: white; margin: 0;">Welcome to my "Hello World"</p>
+<div style="border: 2px solid #f7a8a8; border-radius: 12px; background: #fff0f5; font-family: sans-serif;">
+
+  <!-- Topo -->
+  <div style="background: #d94f88; padding: 16px; border-radius: 12px 12px 0 0;">
+    <table>
+      <tr>
+        <td>
+          <img src="https://github.com/larissealves/icons/blob/master/20241121_194552.jpg?raw=true" height="60" style="border-radius: 100px; border: 2px solid #fff;" />
+        </td>
+        <td style="padding-left: 12px;">
+          <h2 style="color: white; margin: 0;">Hello, I am Larisse</h2>
+          <p style="color: white; margin: 0;">Welcome to my "Hello World"</p>
+        </td>
+        <td style="padding-left: 16px; font-size: 28px; color: white;">⚙</td>
+      </tr>
+    </table>
   </div>
 
-  <!-- About -->
-  <div style="padding: 12px;">
-    <h3 style="color: #d94f88;">F A C T SㅤA B O U TㅤM E:</h3>
+  <!-- Corpo -->
+  <div style="padding: 16px;">
+    <h3 style="color: #d94f88; margin-bottom: 8px;">F A C T SㅤA B O U TㅤM E:</h3>
     <p>
       🎓 <strong>Software Developer</strong><br>
-      🌎 Based in <strong>Palmas, Tocantins – Brazil</strong><br>
+      🌎 Palmas, Tocantins – Brazil<br>
       💻 Developer since 2021<br>
-      🔗 LinkedIn: <a href="https://www.linkedin.com/in/larissealves/">/larissealves</a>
+      🔗 <a href="https://www.linkedin.com/in/larissealves/">linkedin.com/in/larissealves</a>
     </p>
 
-<div align="left">
+    <!-- Tech stack -->
+   <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="60" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height="60" alt="vuejs logo"  />
@@ -49,7 +60,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=larissealves&radius=16&theme=dracula&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
+  </div>
 
+  <!-- Rodapé -->
   <div style="background: #d94f88; padding: 12px; text-align: center; border-radius: 0 0 12px 12px;">
     <span style="font-size: 24px; color: white;">❤︎ ✉ ➢</span>
   </div>
+
+</div>

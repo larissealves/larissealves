@@ -2,18 +2,8 @@
 
   <!-- Topo -->
   <div style="background: #d94f88; padding: 16px; border-radius: 12px 12px 0 0;">
-    <table>
-      <tr>
-        <td>
-          <img src="https://github.com/larissealves/icons/blob/master/20241121_194552.jpg?raw=true" height="60" style="border-radius: 100px; border: 2px solid #fff;" />
-        </td>
-        <td style="padding-left: 12px;">
-          <h2 style="color: white; margin: 0;">Hello, I am Larisse</h2>
+    <h2 style="color: white; margin: 0;">Hello, I am Larisse</h2>
           <p style="color: white; margin: 0;">Welcome to my "Hello World"</p>
-        </td>
-        <td style="padding-left: 16px; font-size: 28px; color: white;">⚙</td>
-      </tr>
-    </table>
   </div>
 
   <!-- Corpo -->
@@ -26,7 +16,6 @@
       🔗 <a href="https://www.linkedin.com/in/larissealves/">linkedin.com/in/larissealves</a>
     </p>
 
-    <!-- Tech stack -->
    <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="60" alt="react logo"  />
   <img width="12" />

@@ -16,7 +16,7 @@
       🔗 <a href="https://www.linkedin.com/in/larissealves/">linkedin.com/in/larissealves</a>
     </p>
 
-   <div align="left">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="60" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height="60" alt="vuejs logo"  />

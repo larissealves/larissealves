@@ -13,55 +13,65 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="left">✨ Hello, I'm Larisse 👋</h1>
+<br clear="both">
 
-<h2 align="left">Welcome to my “Hello World”</h2>
+<h1 align="left">✨ Hello, I am Larisse 👋</h1>
 
----
+###
 
-<h3 align="left">📌 About Me</h3>
+<h2 align="left">Welcome to my "Hello World"</h2>
 
-<p align="left">
-  🎓 System Analyst<br>
-  🌎 Based in <strong>Palmas, Tocantins – Brazil</strong><br>
-  💻 Developer since 2021<br>
-  🎨 Passionate about design, interaction, and building beautiful experiences with code
-</p>
+###
 
----
+<h3 align="left">F A C T SㅤA B O U TㅤM E:</h3>
 
-<h3 align="left">🔗 Let's Connect</h3>
+###
 
-<p align="left">
+<p align="left">* System Analyst<br>  * Living in <strong> Brazil, Palmas - Tocantins </strong><br>  * Develop desde 2021</p>
+
+###
+
+<br clear="both">
+
+<div align="left">
   <a href="https://www.linkedin.com/in/larissealves/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-</p>
-
----
-
-<h3 align="left">🛠️ Tech Stack</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height="50" alt="Vue.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" alt="Angular" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="50" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="50" alt="Django" />
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" height="50" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="50" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="50" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" />
 </div>
 
----
-
-<h3 align="left">📊 GitHub Stats</h3>
+###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=larissealves&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="150" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=larissealves&theme=dracula&area=true&hide_border=true&radius=16" height="300" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height="60" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="60" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="60" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
 </div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=larissealves&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=larissealves&radius=16&theme=dracula&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
+
+###

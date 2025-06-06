@@ -16,8 +16,6 @@
       🔗 LinkedIn: <a href="https://www.linkedin.com/in/larissealves/">/larissealves</a>
     </p>
 
-      ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="60" alt="react logo"  />
   <img width="12" />
@@ -44,8 +42,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
 </div>
 
-###
 
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=larissealves&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=larissealves&radius=16&theme=dracula&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
 
-    <span style="font-size: 20px; color: white;">❤︎ ✉ ➢</span>
+
+  <div style="background: #d94f88; padding: 12px; text-align: center; border-radius: 0 0 12px 12px;">
+    <span style="font-size: 24px; color: white;">❤︎ ✉ ➢</span>
+  </div>

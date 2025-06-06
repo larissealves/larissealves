@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br clear="both">
-
 <h1 align="left">✨ Hello, I am Larisse 👋</h1>
 
 <h2 align="left">Welcome to my "Hello World"</h2>

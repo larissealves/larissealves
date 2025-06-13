@@ -16,6 +16,8 @@
          🌎 Palmas, Tocantins – Brazil<br>
          💻 Developer since 2021<br>
          🔗 <a href="https://linktr.ee/larisseralves" target="_blank"> Linktr.ee </a>
+         🔗 <a href="https://github.com/larissealves/Portifolio" target="_blank"> Some projects have no planned future updates </a>
+         
       </p>
       <br>
          <div style="border: 2px solid #f7a8a8; align:left ">

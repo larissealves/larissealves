@@ -14,7 +14,7 @@
       <p>
          🎓 <strong>Software Developer</strong><br>
          🌎 Palmas, Tocantins – Brazil<br>
-         💻 Developer since 2021<br>
+        <!-- 💻 Developer since 2021<br> -->
          🔗 <a href="https://linktr.ee/larisseralves" target="_blank"> Linktr.ee </a>
          🔗 <a href="https://github.com/larissealves/Portifolio" target="_blank"> Some projects have no planned future updates </a>
       </p>
@@ -36,37 +36,37 @@
          <div align="left">
             <div>
                <h3>🖼️ Frontend</h3>
-               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="60" alt="React" />
+               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="60" width="64"  alt="React" />
                <img width="12" />
-               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height="60" alt="Vue.js" />
+               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height="60"  width="64"  alt="Vue.js" />
                <img width="12" />
-               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" alt="Angular" />
+               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60"  width="64"  alt="Angular" />
                <img width="12" />
-               <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS" />
+               <img src="https://skillicons.dev/icons?i=tailwind" height="60" width="64"   alt="Tailwind CSS" />
                <img width="12" />
-               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" />
+               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" width="64"   alt="JavaScript" />
                <img width="12" />
-               <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" />
+               <img src="https://skillicons.dev/icons?i=ts" height="60" width="64"   alt="TypeScript" />
             </div>
             <br>
             <!-- Backend -->
             <div align="left">
                <h3>🛠️ Backend</h3>
-               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="60" alt="Node.js" />
+               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="60" width="64"   alt="Node.js" />
                <img width="12" />
-               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="60" alt="Django" />
+               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="60"  width="64"  alt="Django" />
                <img width="12" />
-               <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python" />
+               <img src="https://skillicons.dev/icons?i=py" height="60"  width="64"  alt="Python" />
             </div>
             <br>
             <!-- Database -->
             <div align="left">
                <h3>🗃️ Databases</h3>
-               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" height="60" alt="MySQL" />
+               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" height="60" width="64"   alt="MySQL" />
                <img width="12" />
-               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="60" alt="PostgreSQL" />
+               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="60" width="64"   alt="PostgreSQL" />
                <img width="12" />
-               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="60" alt="MongoDB" />
+               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="60"  width="64"  alt="MongoDB" />
             </div>
             📦 ...and "everything" in between
          </div>

@@ -15,21 +15,9 @@
          🎓 <strong>Software Developer</strong><br>
          🌎 Palmas, Tocantins – Brazil<br>
         <!-- 💻 Developer since 2021<br> -->
-         🔗 <a href="https://linktr.ee/larisseralves" target="_blank"> Linktr.ee </a>
+         🔗 <a href="https://linktr.ee/larisseralves" target="_blank"> Linktr.ee </a> <br>
          🔗 <a href="https://github.com/larissealves/Portifolio" target="_blank"> Some projects have no planned future updates </a>
       </p>
-      <br>
-         <div style="border: 2px solid #f7a8a8; align:left ">
-            <a href="https://www.linkedin.com/in/larissealves/?trk=people-guest_people_search-card&originalSubdomain=br" target="_blank">
-               <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-            </a>
-            <a href="https://instagram.com/larisseralves" target="_blank">
-               <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-            </a>
-            <a href="mailto:alves.larisser@gmail.com">
-               <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-            </a>
-         </div>
       <br>
       <div align="left">
          <!-- Frontend -->

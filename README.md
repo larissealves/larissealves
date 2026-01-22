@@ -61,7 +61,7 @@ Often open to **freelance & remote work**.
 **Frontend Developer**  
 📅 Dec 2023 – Jan 2025 | Remote  
 
----
+--
 
 ### **Corteva Agriscience**  
 **Full Stack Developer**  
@@ -85,7 +85,7 @@ Here I worked on **real problems with real impact**:
 - Access control systems (turnstiles)
 - Power BI dashboards
 
----
+--
 
 ### **SIM Internet de Alta Velocidade**  
 **NOC Analyst I**  
@@ -97,7 +97,7 @@ Here I worked on **real problems with real impact**:
 - Performance analysis and reporting
 - ONU configuration and supervision
 
----
+--
 
 ### **Internships – IT Support & Software Development**  
 📅 Dec 2018 – Feb 2021  
@@ -112,7 +112,7 @@ This is where I got my hands dirty with:
 - Coding basics that later became a career
 - Real teamwork (and real bugs 🐛)
 
----
+--
 
 ### **Enel Green Power**  
 **Administrative Assistant – Operations & Maintenance (O&M)**  

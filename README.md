@@ -54,70 +54,15 @@ Often open to **freelance & remote work**.
 
 ## 💼 Where I’ve Been (So Far)
 
-### **TrueChange**  
-**Full Stack Developer**  
-📅 Feb 2025 – Jan 2026 | Remote  
+Full Stack Developer with a track record of delivering scalable solutions, optimizing complex processes, and driving real business impact.
 
-**Frontend Developer**  
-📅 Dec 2023 – Jan 2025 | Remote  
+My career started in IT support and infrastructure, which gave me a strong foundation in systems, reliability, and problem-solving under pressure. Over time, I evolved into full-stack development, working across the entire lifecycle — from understanding business needs to delivering efficient, user-focused solutions.
 
---
+I’ve contributed to system modernization, automation, and performance improvements, always aiming to make tools not just functional, but intuitive and genuinely useful.
 
-### **Corteva Agriscience**  
-**Full Stack Developer**  
-📅 Jun 2021 – Dec 2023  
-📍 Palmas, Tocantins, Brazil  
+Today, I bring a holistic view of software development — balancing technical quality, business goals, and user experience.
 
-Here I worked on **real problems with real impact**:
-
-- Digitizing and optimizing complex internal processes
-- Building systems used by local teams and global units
-- Creating dashboards to support data-driven decisions
-- Translating business needs into practical technical solutions
-- Making internal tools faster, simpler, and actually pleasant to use
-
-**Tech & tools I used daily:**
-- OutSystems (Traditional, Reactive, Mobile)
-- JavaScript, HTML, CSS
-- Python (Django)
-- SQL Server
-- TOTVS ERP integrations
-- Access control systems (turnstiles)
-- Power BI dashboards
-
---
-
-### **SIM Internet de Alta Velocidade**  
-**NOC Analyst I**  
-📅 Feb 2021 – Jun 2021  
-📍 Palmas, Tocantins, Brazil  
-
-- Incident and problem management (from panic to solution)
-- Network recovery and monitoring
-- Performance analysis and reporting
-- ONU configuration and supervision
-
---
-
-### **Internships – IT Support & Software Development**  
-📅 Dec 2018 – Feb 2021  
-📍 Palmas & Region, Tocantins, Brazil  
-
-- **ATI – Agência de Tecnologia da Informação** (May 2019 – Feb 2021)
-- **IEPTB-TO** (Dec 2018)
-
-This is where I got my hands dirty with:
-- IT infrastructure
-- System maintenance
-- Coding basics that later became a career
-- Real teamwork (and real bugs 🐛)
-
---
-
-### **Enel Green Power**  
-**Administrative Assistant – Operations & Maintenance (O&M)**  
-📅 Aug 2016 – Aug 2018  
-📍 Palmas & Region, Brazil  
+➡️ For a detailed breakdown of my roles and projects, check out my [![LinkedIn Profile]](https://www.linkedin.com/in/larissealves/)
 
 ---
 

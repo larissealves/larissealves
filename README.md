@@ -2,7 +2,7 @@
 
 > ### Welcome to my little corner of the internet where `Hello World` turned into a career.
 
-❥︎ [LinkedIn](...) · [Email](...) · [HackerRank](...) · [Instagram](...)
+❥︎ [LinkedIn](https://www.linkedin.com/in/larissealves/) · [Email](mailto:alves.larisser@gmail.com) · [HackerRank](https://www.hackerrank.com/alves_larisser/) · [Instagram](https://www.instagram.com/larisseralves/)
 
 ---
 

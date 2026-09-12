@@ -31,7 +31,7 @@ A collection of projects that are online and available to explore
 
 ❣︎ [Published Projects](https://github.com/larissealves/Portifolio)   · 
 ⭐[All lists](https://github.com/larissealves?tab=stars)  · 
-💼 [My Professional Engineering Experience](https://github.com/larissealves/Portifolio/blob/main/01%20-%20Professional%20Profile)
+💼 [My Professional Engineering Experience](https://github.com/larissealves/Portifolio/blob/main/01%20-%20Professional%20Profile.md)
 
 ---
 

@@ -49,6 +49,7 @@ I'm a Brazilian IT professional with a background in **Software Development and 
 
 - Portuguese — Native
 - English — Professional Proficiency
+- Spanish — Professional Proficiency
 
 Thanks for stopping by!
 

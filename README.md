@@ -27,16 +27,27 @@ I'm a Brazilian IT professional with a background in **Software Development and 
 - 🌏 Currently living between **Brazil** and **Thailand**;
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/larissealves/) · [Email](mailto:alves.larisser@gmail.com)
 
-| | Technologies |
-| ---------------- | ---------------- |
-| ❥ LANGUAGES | TypeScript · JavaScript · Python · SQL |
-| ❥ FRONTEND | React · Redux · React Query · HTML · CSS · Tailwind |
-| ❥ BACKEND | Node.js · Express · REST/SOAP APIs · System Integration |
-| ❥ DATABASE | PostgreSQL · SQL Server · Relational Data Modeling · Query Optimization |
-| ❥ NETWORK OPERATIONS | Network Monitoring · Incident Management · Connectivity Troubleshooting · ONU Configuration |
-| ❥ IT FUNDAMENTALS | Linux · Network Configuration · Squid Proxy |
-| ❥ TOOLS & DEPLOY | Git · Docker · CI/CD · Render · Vercel |
-| ❥ OTHERS | Power BI · OutSystems |
+### Tech Stack & Knowledge
+
+| | Technologies | Related Concepts | Knowledge Level |
+| ---------------- | ---------------- | ---------------- | ---------------- |
+| ❥ LANGUAGES | JavaScript (ES6+) · TypeScript · Python · SQL | Programming Fundamentals · Data Structures | Hands-on |
+| ❥ FRONTEND | React.js · Redux · React Query · HTML5 · CSS3 · Tailwind CSS | Component-Based Architecture · State Management · Responsive Design | Hands-on |
+| ❥ BACKEND | Node.js · NestJS · Express.js · REST/SOAP APIs · System Integration | API Design · Microservices · SOLID Principles · Design Patterns | Hands-on |
+| ❥ DATABASE | PostgreSQL · SQL Server · Relational Data Modeling · Query Optimization | Database Indexing · Transactions · Data Integrity · Performance Optimization | Hands-on |
+| ❥ TESTING & QUALITY | Jest · Functional Testing · API Testing · Integration Testing | Unit Testing · Test Automation · Software Quality Assurance | Hands-on |
+| ❥ NETWORK OPERATIONS | Network Monitoring · Incident Management · Connectivity Troubleshooting · ONU Configuration | TCP/IP · DNS · HTTP/HTTPS · Network Troubleshooting | Hands-on |
+| ❥ IT FUNDAMENTALS | Linux · Network Configuration · Squid Proxy | Operating Systems · System Administration · Networking Fundamentals | Hands-on / Theoretical |
+| ❥ CLOUD & INFRASTRUCTURE | AWS · Kubernetes · Docker · CI/CD | Cloud Computing · Containerization · Orchestration · Infrastructure as Code (IaC) | Hands-on / Theoretical |
+| ❥ OBSERVABILITY | Monitoring · Observability | Logging · Metrics · Distributed Tracing · Alerting | Theoretical |
+| ❥ SCALABILITY & RELIABILITY | Scalability · Performance · Reliability | Horizontal & Vertical Scaling · Load Balancing · Caching · High Availability · Fault Tolerance | Theoretical |
+| ❥ TOOLS & DEPLOY | Git · Redis · Render · Vercel | Version Control · Caching · Session Management · Deployment | Hands-on |
+| ❥ OTHERS | Power BI · OutSystems | Business Intelligence · Low-Code Development | Hands-on / Theoretical |
+
+### Languages
+
+- Portuguese — Native
+- English — Professional Proficiency
 
 Thanks for stopping by!
 

@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 I'm a Brazilian IT professional with a background in **Software Development and Computer Networking**.
 
 - 🔭 I’m currently working on full-stack applications and enterprise software;
-- 🌱 I’m actively learning about network infrastructure, Linux, and networking fundamentals;
+- 🌱 B.Sc. in Information Systems + 3 years of technical education in Computer Networks;
 - 🎓 **Education:** B.Sc. in Information Systems & Technical High School in Computer Networks;
 - 💬 Ask me about React, Node.js, JavaScript, SQL, and my experience with NOC operations;
 - 🌏 Currently living between **Brazil** and **Thailand**;
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/larissealves/) · [Email](mailto:alves.larisser@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/larissealves/) · [Email](mailto:alves.larisser@gmail.com) 
 
 ### Tech Stack & Knowledge
 
@@ -42,7 +42,8 @@ I'm a Brazilian IT professional with a background in **Software Development and 
 | ❥ OBSERVABILITY | Monitoring · Observability | Logging · Metrics · Distributed Tracing · Alerting | Theoretical |
 | ❥ SCALABILITY & RELIABILITY | Scalability · Performance · Reliability | Horizontal & Vertical Scaling · Load Balancing · Caching · High Availability · Fault Tolerance | Theoretical |
 | ❥ TOOLS & DEPLOY | Git · Redis · Render · Vercel | Version Control · Caching · Session Management · Deployment | Hands-on |
-| ❥ OTHERS | Power BI · OutSystems | Business Intelligence · Low-Code Development | Hands-on / Theoretical |
+| ❥ Systems Programming	 | C/C++ · Rust	| Operating Systems, Hardware Interaction, Memory Management, Performance Optimization, Resource-Efficient Software	 | Currently Learning  | 
+| ❥ OTHERS | Power BI · OutSystems | Business Intelligence · Low-Code Development | Hands-on and certified |
 
 ### Languages
 
